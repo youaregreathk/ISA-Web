@@ -1,0 +1,9 @@
+/* Customize the text color and shadow color and to optimize text legibility. */
+.tagline {
+    text-shadow: 0 0 10px #000;
+    color: #fff;
+}
+
+.img-center {
+    margin: 0 auto;
+}
