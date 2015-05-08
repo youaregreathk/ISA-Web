@@ -1,2 +1,2 @@
-# ISA-Web
-Website for ISA
+# ISA-Website
+Creating a new Website for UCLA ISA
