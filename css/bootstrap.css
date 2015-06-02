@@ -1129,6 +1129,11 @@ img {
   max-width: 100%;
   height: auto;
 }
+.img-hidden{
+  height: 200;
+  width: 300;
+  overflow: hidden;
+}
 .img-rounded {
   border-radius: 6px;
 }

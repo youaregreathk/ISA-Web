@@ -10,7 +10,7 @@ function navigation(){
     html+='<span class="icon-bar"></span>'
     html+='<span class="icon-bar"></span>'
     html+='</button>'
-    html+='<a class="navbar-brand" href="index.html"><img src="img/ISA/LOGO.jpg" height="40" width="40"/>UCLA ISA</a>'
+    html+='<a class="navbar-brand" href="index.html"><img src="img/LOGO.jpg" height="40" width="40"/>UCLA ISA</a>'
     html+='</div>'
 
     html+='<!-- Collect the nav links, forms, and other content for toggling -->'
@@ -46,6 +46,7 @@ function navigation(){
 
 function footer(){
     var html=""
+    html+='<hr>'
     html+='<footer>'
     html+='<div class="container">'
     html+='<div class="row">'
